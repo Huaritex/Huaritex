@@ -1,70 +1,92 @@
-<br clear="both">
+<!-- Title with Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Welcome+to+my+Cyber+Lair;Ethical+Hacker;Cybersecurity+Researcher;Red+Team+Operator" alt="Typing SVG" />
+</h1>
 
-<div align="center">
-  <img height="200" src="https://media.tenor.com/kIyoK8LxWXIAAAAM/sonic-sonicstyle.gif"  />
-</div>
+<!-- Matrix-style Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100%" height="300" alt="Cybersecurity Matrix Banner">
+</p>
 
-###
+<!-- About Me Section -->
+## 🛡️ Who Am I?
 
-<br clear="both">
+```bash
+> whoami
+Cybersecurity Enthusiast | Ethical Hacker | Security Researcher
+```
+```bash
+> cat about_me.txt
+- 🎓 Software Engineering Student with a passion for Cybersecurity.
+- 🔐 Focused on Red Teaming, Network Security, and Threat Hunting.
+- 🛡️ Always learning and testing security boundaries.
+- 📚 Deeply analytical and detail-oriented.
+- ⚡ Motivation: Becoming the best in Cybersecurity and pushing my limits.
+```
 
-<p align="center">Software Engineering student, expert at finding excuses not to do homework.  productive procrastinator. ☕ However, when I finally get to work, the results are amazing! My goal: master the art of productive procrastination and create amazing software in the meantime."</p>
+<!-- Animated Hacking Console -->
+<p align="center">
+  <img src="https://media.giphy.com/media/S3PBgyGxMqRsTxVVRG/giphy.gif" width="600" alt="Hacking Console">
+</p>
 
-###
+<!-- Skills Section with Custom Badges -->
+## 🔧 Technologies & Tools
 
-<div align="center">
-  <a href="https://open.spotify.com/user/Huaritex">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Huaritex&count=5&unique=true" alt="Spotify recently played"  />
+![](https://img.shields.io/badge/OS-Kali%20Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+
+<!-- Security Tools -->
+## 🛠️ My Cyber Arsenal
+
+- 🔍 **Reconnaissance**: Nmap, Shodan, Maltego
+- 🔐 **Exploitation**: Metasploit, Burp Suite, SQLMap
+- 🛡️ **Defensive Security**: Snort IDS, OSSEC, Fail2Ban
+- 🕵️ **Forensics & Malware Analysis**: Volatility, Autopsy, YARA
+- 🖥 **OSINT & Social Engineering**: TheHarvester, Maltego, Sherlock
+
+<!-- GitHub Stats -->
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Huaritex&show_icons=true&theme=onedark" alt="GitHub Stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huaritex&layout=compact&theme=onedark" alt="Most Used Languages"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Huaritex&theme=onedark" alt="GitHub Streak Stats"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Huaritex&theme=onedark" alt="GitHub Profile Summary"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Huaritex&show_icons=true&hide=contribs,prs&theme=onedark" alt="Additional GitHub Stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Huaritex&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=onedark" alt="Extended GitHub Stats"/>
+</p>
+
+<!-- Connect Section -->
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://twitter.com/YOUR_TWITTER">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Huaritex&theme=dark" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Huaritex&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Huaritex&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Huaritex&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Huaritex/Huaritex/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-  <a href="https://x.com/huaritex" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <a href="https://YOUR_BLOG">
+    <img src="https://img.shields.io/badge/-Blog-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"/>
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <a href="https://www.youtube.com/channel/UCc5KAaV6Zeny1RmPHcyNoAQ" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/huaritex/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
+</p>
 
-###
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=footer"/>
+</p>
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Huaritex/count.svg?"  />
-</div>
-
-###
+<!-- Profile Views Counter -->
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=00FF00&style=flat" alt="Profile Views"/>
+</p>
