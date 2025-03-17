@@ -26,17 +26,19 @@ Cybersecurity Enthusiast | Ethical Hacker | Security Researcher
 
 <!-- Animated Hacking Console -->
 <p align="center">
-  <img src="https://media.giphy.com/media/S3PBgyGxMqRsTxVVRG/giphy.gif" width="600" alt="Hacking Console">
+  <img src="https://media.giphy.com/media/xsCevAab5ufj37BeGR/giphy.gif?cid=790b7611erbzfozcv4hj0r7ibseca11ij0zso7nrii6e863b&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" height="300" alt="Hacking Console">
 </p>
 
 <!-- Skills Section with Custom Badges -->
 ## 🔧 Technologies & Tools
 
+![](https://img.shields.io/badge/OS-Arch%20Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Kali%20Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 
 <!-- Security Tools -->
 ## 🛠️ My Cyber Arsenal
@@ -73,14 +75,36 @@ Cybersecurity Enthusiast | Ethical Hacker | Security Researcher
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>
+  <!-- Twitter -->
+  <a href="https://x.com/huaritex" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&color=00acee&labelColor=000000" alt="Twitter"/>
   </a>
-  <a href="https://YOUR_BLOG">
-    <img src="https://img.shields.io/badge/-Blog-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"/>
+  
+ <!-- YouTube -->
+  <a href="https://www.youtube.com/@Huaritex-y4d" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white&color=333333&labelColor=FF0000" alt="YouTube"/>
   </a>
-</p>
+  
+  <!-- Discord -->
+  <a href="https://discord.com/users/Huaritex#1720" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white&color=2f3136&labelColor=5865F2" alt="Discord"/>
+  </a>
+  
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/huaritex/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&color=000000&labelColor=E4405F" alt="Instagram"/>
+  </a>
+  
+  <!-- Spotify -->
+  <a href="https://open.spotify.com/user/virtualgt20" target="_blank">
+    <img src="https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=Spotify&logoColor=white&color=000000&labelColor=1DB954" alt="Spotify"/>
+  </a>
 
+  <!-- Snapchat -->
+<a href="https://www.snapchat.com/add/huaritex" target="_blank">
+  <img src="https://img.shields.io/badge/-Snapchat-F1C40F?style=for-the-badge&logo=Snapchat&logoColor=white&color=000000&labelColor=F1C40F" alt="Snapchat"/>
+</a>
+  
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=footer"/>
