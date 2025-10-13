@@ -1,34 +1,98 @@
-<!-- Title with Animation -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Welcome+to+my+Cyber+Lair;Ethical+Hacker;Cybersecurity+Researcher;Red+Team+Operator" alt="Typing SVG" />
-</h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h1 align="center">Hola 👋, soy Huaritex</h1>
+  <h3 align="center">Un apasionado de la ciberseguridad, enfocado en proteger el mundo digital.</h3>
+</div>
 
-<!-- Matrix-style Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100%" height="300" alt="Cybersecurity Matrix Banner">
+<div align="center">
+  <a href="https://www.linkedin.com/in/tu-usuario/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/tu-usuario" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</div>
+
+---
+
+### 👨‍💻 Sobre mí
+
+<p>
+  - 🔭 Actualmente estoy trabajando en <strong>MI</strong>.
+  <br>
+  - 🌱 Estoy aprendiendo sobre <strong>Análisis de Malware</strong> y <strong>Ciberseguridad con Inteligencia Arificial</strong>.
+  <br>
+  - 🛡️ Busco colaborar en proyectos de <strong>Creatividad</strong> y <strong>ambiciones</strong>.
+  <br>
+  - 💬 Pregúntame sobre <strong>Sobre mis metas</strong>.
+  <br>
+  - 📫 Cómo contactarme: <strong>huaritex@gmail.com</strong>
+  <br>
+  - 😄 Pronombre: Lazy/Genius
+  <br>
+  - ⚡ Dato curioso: Me gusta los desafios, alimentan mi ego y me emociona
 </p>
 
-<!-- About Me Section -->
-## 🛡️ Who Am I?
+---
 
-```bash
-> whoami
-Cybersecurity Enthusiast | Ethical Hacker | Security Researcher
-```
-```bash
-> cat about_me.txt
-- 🎓 Software Engineering Student with a passion for Cybersecurity.
-- 🔐 Focused on Red Teaming, Network Security, and Threat Hunting.
-- 🛡️ Always learning and testing security boundaries.
-- 📚 Deeply analytical and detail-oriented.
-- ⚡ Motivation: Becoming the best in Cybersecurity and pushing my limits.
-```
+### 🛡️ Mi Stack de Ciberseguridad
 
-<!-- Animated Hacking Console -->
-<p align="center">
-  <img src="https://media.giphy.com/media/xsCevAab5ufj37BeGR/giphy.gif?cid=790b7611erbzfozcv4hj0r7ibseca11ij0zso7nrii6e863b&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" height="300" alt="Hacking Console">
-</p>
+Aquí están algunas de las tecnologías y herramientas con las que trabajo:
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <a href="#-lenguajes-de-programación">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+        </a>
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <a href="#-herramientas">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+        </a>
+        <br>Linux
+      </td>
+      <td align="center" width="96">
+        <a href="#-herramientas">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
+        </a>
+        <br>Bash
+      </td>
+      <td align="center" width="96">
+        <a href="#-cloud--contenedores">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+        </a>
+        <br>Docker
+      </td>
+       <td align="center" width="96">
+        <a href="#-cloud--contenedores">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS" />
+        </a>
+        <br>AWS
+      </td>
+      <td align="center" width="96">
+        <a href="#-herramientas">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Metasploit_logo.svg/1200px-Metasploit_logo.svg.png" width="48" height="48" alt="Metasploit" />
+        </a>
+        <br>Metasploit
+      </td>
+      <td align="center" width="96">
+        <a href="#-herramientas">
+          <img src="https://cdn.worldvectorlogo.com/logos/wireshark.svg" width="48" height="48" alt="Wireshark" />
+        </a>
+        <br>Wireshark
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <h3>"No hay parche para la estupidez humana." - Anónimo</h3>
+</div>
 <!-- Skills Section with Custom Badges -->
 ## 🔧 Technologies & Tools
 
