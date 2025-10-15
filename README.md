@@ -94,7 +94,8 @@ Aquí están algunas de las tecnologías y herramientas con las que trabajo:
   <h3>"No hay parche para la estupidez humana." - Anónimo</h3>
 </div>
 <!-- Skills Section with Custom Badges -->
-## 🔧 Technologies & Tools
+
+### 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Arch%20Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Kali%20Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
