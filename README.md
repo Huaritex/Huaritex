@@ -28,7 +28,7 @@
   <br>
   - 📫 Cómo contactarme: <strong>huaritex@gmail.com</strong>
   <br>
-  - 😄 Pronombre: Lazy/Genius
+  - 😄 Pronombre: Huaritex
   <br>
   - ⚡ Dato curioso: Me gusta los desafios, alimentan mi ego y me emociona
 </p>
